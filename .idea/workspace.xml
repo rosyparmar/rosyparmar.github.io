@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ae8a766-3873-4d3a-8e92-6cacf9bc29fe" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="barunka.iws" />
@@ -28,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="235">
-              <caret line="44" column="52" selection-start-line="44" selection-start-column="52" selection-end-line="44" selection-end-column="52" />
+              <caret line="44" column="47" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -216,15 +215,15 @@
       <option name="presentableId" value="Default" />
       <updated>1515641847888</updated>
       <workItem from="1515641868049" duration="11252000" />
-      <workItem from="1515708741030" duration="39000" />
+      <workItem from="1515708741030" duration="235000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11291000" />
+    <option name="totallyTimeSpent" value="11487000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="1" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2848837" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -325,7 +324,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
-          <caret line="44" column="52" selection-start-line="44" selection-start-column="52" selection-end-line="44" selection-end-column="52" />
+          <caret line="44" column="47" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
